@@ -21,5 +21,8 @@ li{
 	list-style-type: upper-alpha;
 }
 .firstRowImage{
-	
+	width:180px;
+}
+.secondRowImage{
+	width:180px;
 }
