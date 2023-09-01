@@ -17,8 +17,11 @@ body{
 .third{
 	width:200px;
 }
+ol{
+	text-align:center;
+}
 li{
-	list-style-type: upper-alpha;
+	list-style-type: none;
 }
 .firstRowImage{
 	width:180px;
